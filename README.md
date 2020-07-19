@@ -4,4 +4,4 @@ Repository Manajemen Hotel untuk memenuhi Project UAS Mata Kuliah Analisis Peran
 Anggota Kelompok:
 1. Chofief Al Farroqie  181524004
 2. Evan Lokajaya        181524007
-3 M. Hanif Albaihaqi    181524021
+3. M. Hanif Albaihaqi    181524021
